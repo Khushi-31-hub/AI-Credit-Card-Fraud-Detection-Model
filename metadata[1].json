@@ -1,0 +1,5 @@
+{
+  "name": "AI Fraud Detection Model",
+  "description": "An intelligent application that analyzes credit card transaction data to detect and flag potentially fraudulent activities using AI.",
+  "requestFramePermissions": []
+}
